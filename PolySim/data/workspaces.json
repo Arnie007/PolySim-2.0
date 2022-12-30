@@ -4977,8 +4977,7 @@
                         "2wjhFu0CfX",
                         "ffOi9nGQQb",
                         "GrSmID94dQ",
-                        "qA7FPpxbCn",
-                        "I9eitHqvA7"
+                        "qA7FPpxbCn"
                     ]
                 }
             },
@@ -5023,9 +5022,7 @@
                     "data": [
                         "mH8eSVzOwg",
                         "lL5wopb1ph",
-                        "FCh470U4vf",
-                        "47EZpezCEz",
-                        "z6QstB0cny"
+                        "FCh470U4vf"
                     ],
                     "meta": [],
                     "errors": []
@@ -6114,7 +6111,7 @@
                     "style": "green",
                     "label": "Ano",
                     "emoji": "✅",
-                    "id": "titul_yes"
+                    "id": "Bc."
                 },
                 "outputs": {
                     "style": [
@@ -6128,7 +6125,8 @@
                     ],
                     "id": [
                         "bKfroOtupn",
-                        "IbiBmvZ4tp"
+                        "IbiBmvZ4tp",
+                        "VoyjyGB3a8"
                     ]
                 },
                 "inputs": {}
@@ -6181,7 +6179,8 @@
                     ],
                     "id": [
                         "bLal9uaJ6G",
-                        "FigeeWT1wU"
+                        "FigeeWT1wU",
+                        "jcjSTEGgZ9"
                     ]
                 },
                 "inputs": {}
@@ -6246,8 +6245,8 @@
             {
                 "name": "create_button_row",
                 "info": {
-                    "x": 5750,
-                    "y": 1498,
+                    "x": 5795,
+                    "y": 1304,
                     "z": 49,
                     "color": "#5a5a5a",
                     "height": 115.2,
@@ -6259,7 +6258,7 @@
                 },
                 "outputs": {
                     "action": [
-                        "ghplxU5uFR"
+                        "b2DtrgyJUe"
                     ],
                     "buttonrow": [
                         "mAQQAmw6Vh"
@@ -6270,8 +6269,8 @@
             {
                 "name": "send_message_component",
                 "info": {
-                    "x": 6066,
-                    "y": 1211,
+                    "x": 6071,
+                    "y": 1082,
                     "z": 50,
                     "color": "#5a5a5a",
                     "height": 272.8,
@@ -6298,8 +6297,8 @@
             {
                 "name": "edit_cell_data_spreadsheet",
                 "info": {
-                    "x": 6429,
-                    "y": 1547,
+                    "x": 6334,
+                    "y": 1498,
                     "z": 51,
                     "color": "#5a5a5a",
                     "height": 241.6,
@@ -6315,7 +6314,7 @@
                 },
                 "outputs": {
                     "action": [
-                        "SZPPGqjEGH"
+                        "o3Imtqtaqv"
                     ]
                 },
                 "options": {}
@@ -6355,7 +6354,7 @@
                 },
                 "outputs": {
                     "action": [
-                        "IltNZ6ujFH"
+                        "wS5E672IbP"
                     ],
                     "user": [],
                     "member": [],
@@ -6389,8 +6388,8 @@
             {
                 "name": "component_defering",
                 "info": {
-                    "x": 6432,
-                    "y": 1280,
+                    "x": 6433,
+                    "y": 1310,
                     "z": 55,
                     "color": "#5a5a5a",
                     "height": 115.2,
@@ -6411,8 +6410,8 @@
             {
                 "name": "button_event",
                 "info": {
-                    "x": 6080,
-                    "y": 1628,
+                    "x": 5768,
+                    "y": 1649,
                     "z": 56,
                     "color": "#5a5a5a",
                     "height": 209.6,
@@ -6437,8 +6436,8 @@
             {
                 "name": "component_defering",
                 "info": {
-                    "x": 6093,
-                    "y": 1853,
+                    "x": 5772,
+                    "y": 1879,
                     "z": 57,
                     "color": "#5a5a5a",
                     "height": 115.2,
@@ -6450,7 +6449,7 @@
                 },
                 "outputs": {
                     "action": [
-                        "o3Imtqtaqv"
+                        "LYmwl4w54h"
                     ],
                     "error": []
                 },
@@ -6459,8 +6458,8 @@
             {
                 "name": "merge_actions",
                 "info": {
-                    "x": 6759,
-                    "y": 1804,
+                    "x": 6784,
+                    "y": 1669,
                     "z": 58,
                     "color": "#5a5a5a",
                     "height": 115.2,
@@ -6480,8 +6479,8 @@
             {
                 "name": "merge_texts_advanced_6x",
                 "info": {
-                    "x": 4332,
-                    "y": 7382,
+                    "x": 4378,
+                    "y": 7390,
                     "z": 60,
                     "color": "#5a5a5a",
                     "height": 272.8,
@@ -8087,8 +8086,8 @@
             {
                 "name": "delete_message",
                 "info": {
-                    "x": 6418,
-                    "y": 1937,
+                    "x": 6746,
+                    "y": 1817,
                     "z": 122,
                     "color": "#5a5a5a",
                     "height": 200,
@@ -11541,13 +11540,10 @@
                 },
                 "outputs": {
                     "number1": [
-                        "OwUVzBmrwP",
                         "liLfdYAmfO"
                     ],
                     "number2": [],
-                    "number3": [
-                        "OB10oqq34O"
-                    ]
+                    "number3": []
                 },
                 "inputs": {}
             },
@@ -11595,91 +11591,122 @@
                 },
                 "outputs": {
                     "action": [
-                        "IyxtWWaQr2"
+                        "uAnIfaFAEC"
                     ]
                 }
             },
             {
-                "name": "get_table_info",
+                "name": "merge_texts_advanced",
                 "info": {
-                    "x": 3652,
-                    "y": 7764,
-                    "z": 265,
+                    "x": 5789,
+                    "y": 1422,
+                    "z": 269,
                     "color": "#5a5a5a",
                     "height": 178.4,
-                    "width": 555
+                    "width": 419
                 },
                 "inputs": {
-                    "action": "21ZbVswHEy",
-                    "table": "47EZpezCEz",
-                    "columnas": "OwUVzBmrwP",
-                    "filas": "EufsFZzXUg"
+                    "action": "b2DtrgyJUe",
+                    "text1": "VoyjyGB3a8",
+                    "text2": "jcjSTEGgZ9",
+                    "text3": "dInbF08pnn"
                 },
                 "options": {
-                    "type": "5"
+                    "text": "${text1}${text2}"
+                },
+                "outputs": {
+                    "action": [
+                        "ghplxU5uFR"
+                    ],
+                    "text": [
+                        "iyJ6i7LYOR",
+                        "78uScnGBUN"
+                    ]
+                }
+            },
+            {
+                "name": "replace_value_with_text",
+                "info": {
+                    "x": 6687,
+                    "y": 1074,
+                    "z": 270,
+                    "color": "#5a5a5a",
+                    "height": 241.6,
+                    "width": 419
+                },
+                "inputs": {
+                    "action": "wS5E672IbP",
+                    "value": "iyJ6i7LYOR"
+                },
+                "options": {
+                    "replacement_type": "all",
+                    "old_value": "titul_no",
+                    "new_value": ""
+                },
+                "outputs": {
+                    "action": [
+                        "IltNZ6ujFH"
+                    ],
+                    "result": [
+                        "SfmIOu6Zx7"
+                    ]
+                }
+            },
+            {
+                "name": "replace_value_with_text",
+                "info": {
+                    "x": 6186,
+                    "y": 1802,
+                    "z": 271,
+                    "color": "#5a5a5a",
+                    "height": 241.6,
+                    "width": 419
+                },
+                "inputs": {
+                    "action": "LYmwl4w54h",
+                    "value": "78uScnGBUN"
+                },
+                "options": {
+                    "replacement_type": "first",
+                    "old_value": "Bc.",
+                    "new_value": ""
+                },
+                "outputs": {
+                    "action": [
+                        "SZPPGqjEGH"
+                    ],
+                    "result": [
+                        "lifIqo0evj"
+                    ]
+                }
+            },
+            {
+                "name": "merge_texts_advanced",
+                "info": {
+                    "x": 3650,
+                    "y": 7391,
+                    "z": 272,
+                    "color": "#5a5a5a",
+                    "height": 178.4,
+                    "width": 419
+                },
+                "inputs": {
+                    "action": "uAnIfaFAEC",
+                    "text1": "SfmIOu6Zx7",
+                    "text2": "lifIqo0evj",
+                    "text3": "cLx4PnBqjR"
+                },
+                "options": {
+                    "text": "${text1}${text2}"
                 },
                 "outputs": {
                     "action": [
                         "nsVcsEBpgH"
                     ],
-                    "value": [
+                    "text": [
                         "vFFzGyHrAZ"
                     ]
                 }
-            },
-            {
-                "name": "get_table_info",
-                "info": {
-                    "x": 3649,
-                    "y": 7367,
-                    "z": 266,
-                    "color": "#5a5a5a",
-                    "height": 178.4,
-                    "width": 555
-                },
-                "inputs": {
-                    "action": "IyxtWWaQr2",
-                    "table": "z6QstB0cny",
-                    "columnas": "OB10oqq34O",
-                    "filas": "a1bNvnbiDt"
-                },
-                "options": {
-                    "type": "3"
-                },
-                "outputs": {
-                    "action": [
-                        "idNyffJils"
-                    ],
-                    "value": [
-                        "6HsmpmdMIC"
-                    ]
-                }
-            },
-            {
-                "name": "get_list_item_position",
-                "info": {
-                    "x": 3800,
-                    "y": 7573,
-                    "z": 267,
-                    "color": "#5a5a5a",
-                    "height": 178.4,
-                    "width": 280
-                },
-                "inputs": {
-                    "action": "idNyffJils",
-                    "list": "6HsmpmdMIC",
-                    "item": "I9eitHqvA7",
-                    "start_at": "8iAwV8cIIe"
-                },
-                "outputs": {
-                    "action": [
-                        "21ZbVswHEy"
-                    ],
-                    "position": [
-                        "EufsFZzXUg"
-                    ]
-                },
-                "options": {}
             }
         ],
         "notes": [
@@ -11720,15 +11747,15 @@
                 "x": 6396,
                 "y": 983,
                 "z": 4,
-                "width": 364,
-                "height": 1125
+                "width": 716,
+                "height": 1136
             },
             {
                 "title": "JMÉNO",
                 "description": "",
                 "color": "#ffffff",
-                "x": 3088,
-                "y": 2106,
+                "x": 3089,
+                "y": 2112,
                 "z": 5,
                 "width": 3676,
                 "height": 752
@@ -13697,8 +13724,7 @@
                     "text": [
                         "mXDFOUwRGu"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -13732,8 +13758,7 @@
                     "message_embed": [
                         "oEL3jvB1np"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "color",
@@ -13752,8 +13777,7 @@
                     "color": [
                         "Cw62PX6Jy7"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "send_message",
@@ -13776,8 +13800,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_date",
@@ -13867,8 +13890,7 @@
                     "text": [
                         "0pWcDahJW4"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "send_reply",
@@ -13895,8 +13917,7 @@
                         "hTOJlB3OQj"
                     ],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "bot_initialization_event",
@@ -13912,9 +13933,7 @@
                     "action": [
                         "hIUnbQOUHI"
                     ]
-                },
-                "inputs": {},
-                "options": {}
+                }
             },
             {
                 "name": "set_bot_activity",
@@ -13952,9 +13971,7 @@
                 },
                 "inputs": {
                     "action": "whjgpQvvw6"
-                },
-                "options": {},
-                "outputs": {}
+                }
             },
             {
                 "name": "set_bot_status",
@@ -14003,8 +14020,7 @@
                     "text3": [
                         "0PsZT38ckN"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "edit_message",
@@ -14028,8 +14044,7 @@
                         "2YvkuRnyPL"
                     ],
                     "error": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -14063,8 +14078,7 @@
                     "message_embed": [
                         "5jJxobQ0Ds"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text_3x",
@@ -14103,8 +14117,7 @@
                     "text7": [],
                     "text8": [],
                     "text9": []
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "color",
@@ -14123,8 +14136,7 @@
                     "color": [
                         "8E2UsDcRIp"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "find_message",
@@ -14170,8 +14182,7 @@
                     "text": [
                         "l7o9uDd5ki"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "get_message_arguments",
@@ -14218,8 +14229,7 @@
                     "text": [
                         "BMVCqcGjSE"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "wait",
@@ -14261,8 +14271,7 @@
                     "number": [
                         "UjqNkpN9dN"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "find_channel",
@@ -14309,8 +14318,7 @@
                     "text": [
                         "T7oHpqL9L8"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "find_channel",
@@ -14400,8 +14408,7 @@
                     ],
                     "text5": [],
                     "text6": []
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -14435,8 +14442,7 @@
                     "message_embed": [
                         "C4xCzNyiAX"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "edit_message",
@@ -14456,8 +14462,7 @@
                 },
                 "outputs": {
                     "action": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "color",
@@ -14476,8 +14481,7 @@
                     "color": [
                         "LdsfGUPdRW"
                     ]
-                },
-                "inputs": {}
+                }
             }
         ],
         "notes": [
@@ -14781,7 +14785,7 @@
                     "width": 319
                 },
                 "options": {
-                    "text1": "p!system -> Zobrazí informace o botovi",
+                    "text1": "p!status -> Zobrazí informace o botovi",
                     "text2": "",
                     "text3": ""
                 },
@@ -14832,7 +14836,7 @@
                 "x": 0,
                 "y": 0,
                 "z": 1,
-                "width": 2834,
+                "width": 2833,
                 "height": 1348
             }
         ]
