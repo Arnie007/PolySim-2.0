@@ -6496,7 +6496,7 @@
                     "text6": "wx62uYzUyq"
                 },
                 "options": {
-                    "text": "NES |${text1} ${text2}"
+                    "text": "NES | ${text1} ${text2}"
                 },
                 "outputs": {
                     "action": [
