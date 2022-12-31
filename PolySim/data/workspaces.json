@@ -6522,7 +6522,7 @@
                     "value": "m7cOo5dZxe"
                 },
                 "options": {
-                    "replacement_type": "first",
+                    "replacement_type": "all",
                     "old_value": "undefined",
                     "new_value": ""
                 },
@@ -11667,7 +11667,7 @@
                     "value": "78uScnGBUN"
                 },
                 "options": {
-                    "replacement_type": "first",
+                    "replacement_type": "all",
                     "old_value": "Bc.",
                     "new_value": ""
                 },
